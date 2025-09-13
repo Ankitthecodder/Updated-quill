@@ -313,6 +313,7 @@ span {
     position: relative;
     filter: opacity(4);
     max-width: 95vw;
+    margin: 0 auto;
 }
 .box-container {
     background: rgba(255, 255, 255, 0.1);
@@ -482,4 +483,5 @@ span {
     }
 
 }
+
 
